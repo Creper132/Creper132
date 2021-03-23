@@ -4,4 +4,4 @@
 - Funfact: Moim pierwszym programem to była przegladarka w Visual Studio (Winforms)
 - Języki programowania: Python (leciutko), C# (kiedys to będzie jako obrazek )
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Creper132&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Creper132&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Creper132&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
